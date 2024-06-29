@@ -16,6 +16,7 @@ body {
    font-family: 'Poppins', sans-serif; 
 	letter-spacing: 0.4px;
    background-color: var(--color-background-100);
+   background-image: url("images/Background.png");
    -webkit-font-smoothing: antialiased;
 }
 
@@ -128,7 +129,7 @@ P {
 
 .pic img {
    width: 180px;
-   height: 180px;
+   height: 260px;
    border-radius: 20px;
    margin: 25% auto 0 auto;
    /* border: 2px solid purple; */
@@ -194,6 +195,7 @@ P {
    font-size: 0.8rem;
    right: 0;
    margin: auto 0 auto auto; 
+   width: 38%; 
 }
 
 .experience p {
